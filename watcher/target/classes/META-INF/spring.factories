@@ -1,1 +1,0 @@
-org.springframework.context.ApplicationListener=com.cs.crond.watcher.listener.ReadyEventListener
